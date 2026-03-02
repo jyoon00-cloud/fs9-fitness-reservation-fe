@@ -350,7 +350,7 @@ erDiagram
 | [![이정윤](https://github.com/jyoon00-cloud.png?size=100)](https://github.com/jyoon00-cloud) | [![박지은](https://github.com/jieun318.png?size=100)](https://github.com/jieun318) | [![최진영](https://github.com/Gephigirl.png?size=100)](https://github.com/Gephigirl) | [![백수현](https://github.com/bean-baek.png?size=100)](https://github.com/bean-baek) |
 | 팀장 | 팀원 | 팀원 | 팀원 |
 | [📄 개인 개발 리포트](https://www.notion.so/313f454c3ce48073aebfe328e0962d74) | [📄 개인 개발 리포트](https://www.notion.so/312f454c3ce480628dabed2bb290b590) | [📄 개인 개발 리포트](https://www.notion.so/313f454c3ce480268bcdf84fbe5a2e6d) | - |
-| **[FE]** 어드민 페이지 UI/UX 구현<br>CI/CD 및 배포 환경 구성<br>배포 후 전반적 수정<br>**[BE]** 프로젝트 초기 설정·Prisma 스키마<br>센터·클래스·예약·리뷰·포인트·쿠폰·회원 API<br>토스페이먼츠 결제 승인·정산<br>CI/CD 및 BE 배포 등 그 외 전반 | **[FE]** 프로젝트 초기 설정 및 디자인 시스템 구축<br>셀러 페이지 UI/UX 구현<br>클래스 상세 페이지 구현<br>공통 헤더/레이아웃 컴포넌트 구현<br>API 연동 | **[FE]** 고객 페이지 UI/UX 구현<br>마이페이지 신규 생성<br>시설 탐색 및 예약 화면 UI 구성<br>API 연동 | **[FE]** 인증 구현<br>Cookie 기반 토큰 관리<br>알림(Notification) 기능 구현<br>**[BE]** 인증·JWT·Cookie 기반 세션<br>회원가입/로그인/프로필 API<br>알림(Notification)·SSE API |
+| **[FE]** 어드민 페이지 UI/UX 구현<br>CI/CD 및 배포 환경 구성<br>배포 후 전반적 수정<br>**[BE]** 프로젝트 초기 설정·Prisma 스키마<br>센터·클래스·예약·리뷰·포인트·쿠폰·회원 API<br>CI/CD 및 BE 배포 등 그 외 전반 | **[FE]** 프로젝트 초기 설정 및 디자인 시스템 구축<br>셀러 페이지 UI/UX 구현<br>클래스 상세 페이지 구현<br>공통 헤더/레이아웃 컴포넌트 구현<br>API 연동 | **[FE]** 고객 페이지 UI/UX 구현<br>마이페이지 신규 생성<br>시설 탐색 및 예약 화면 UI 구성<br>카카오맵/토스페이먼츠 결제 승인·정산<br>API 연동 | **[FE]** 인증 구현<br>Cookie 기반 토큰 관리<br>알림(Notification) 기능 구현<br>**[BE]** 인증·JWT·Cookie 기반 세션<br>회원가입/로그인/프로필 API<br>알림(Notification)·SSE API |
 
 ---
 
